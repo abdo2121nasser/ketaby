@@ -9,7 +9,7 @@
 .history
 .svn/
 migrate_working_dir/
-
+lib/core/constants/apis_keys_constants.dart
 # IntelliJ related
 *.iml
 *.ipr
