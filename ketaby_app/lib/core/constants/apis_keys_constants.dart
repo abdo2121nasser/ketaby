@@ -1,9 +1,0 @@
-class ApiKeysConst
-{
- static final String stribePublishKey='pk_test_51Ok4mvIllUFneAsCYFVEbXTzByz42rn3uCVotuBYli8cUVre5HXcIdrCnQk0Og3GwGvstm7dsaOVTyrpbe558lXH001FX8Py5U'
- ;
- static final String stribeSecretKey='sk_test_51Ok4mvIllUFneAsCJGcTXmOgybzaxtgZbcseJrLFuhK17MN5OlyP7kLqTNIkwgIqAjEYjnoDYNcIXDGxrF4eqssv006rsqu0rw';
- static final String payPalClintId='ASwS0Qk87kB0y2uZ1N7QvIkYuaPvdB7Sq6wVF8MevZuD2IVfg3MoDpnOxN1sr75yRIW1fd-NVleG0RAK';
- static final String payPalSecretKey='ECWuijY4-MoEKg3d2fdNZey_9nbZCrftSDXYvoxVYin0CMS6ORvWaBPwSSIcD_KJAJYXSQO8KtxW177B';
-
-}
